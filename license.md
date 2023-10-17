@@ -14,9 +14,9 @@ For information about alternative licensing arrangements for the Licensed Work, 
 
 # Notice
 
-## Business Source License 1.1
+### Business Source License 1.1
 
-###Terms
+**Terms**
 
 The Licensor hereby grants you the right to copy, modify, create derivative works, redistribute, and make non-production use of the Licensed Work. The Licensor may make an Additional Use Grant, above, permitting limited production use.
 
