@@ -4,8 +4,8 @@ License text copyright (c) 2020 MariaDB Corporation Ab, All Rights Reserved.
 
 # Parameters
 
-**Licensor:**	KongData Ltd \
-**Licensed Work:**	The Licensed Work is (c) 2023 KongData Ltd
+>**Licensor:**	KongData Ltd \
+**Licensed Work:**	The Licensed Work is (c) 2023 KongData Ltd \
 **Additional Use Grant:**	You may make production use of the Licensed Work, provided such use does not include offering the Licensed Work to third parties on a hosted or embedded basis which is competitive with KongData's products \
 **Change Date:**	Four years from the date the Licensed Work is published \
 **Change License:**	MPL 2.0 
